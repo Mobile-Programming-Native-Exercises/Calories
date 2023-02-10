@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calories</string>
+    <string name="title">Calories</string>
+    <string name="weightLabel">Enter weight</string>
+</resources>
